@@ -1,5 +1,13 @@
 # 🎯 Face Recognition and Movement Tracking System
-
+<div align="center" dir="auto">
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_DAI_NAM.png/1200px-Logo_DAI_NAM.png" alt="DaiNam University Logo" width="200" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href=""><img src="https://raw.githubusercontent.com/drkhanusa/DNU_PlagiarismChecker/main/docs/images/AIoTLab_logo.png" alt="AIoTLab Logo" width="170" style="max-width: 100%;"></a>
+</p>
+<p dir="auto"><a href="https://fit.dainam.edu.vn" rel="nofollow"><img src="https://camo.githubusercontent.com/14375b31490acab17dd414aef749f3c109a82abaeae50592667c9955b79ce09a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616465253230627925323041496f544c61622d626c75653f7374796c653d666f722d7468652d6261646765" alt="Made by AIoTLab" data-canonical-src="https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge" style="max-width: 100%;"></a>
+<a href="https://fit.dainam.edu.vn" rel="nofollow"><img src="https://camo.githubusercontent.com/f33b9e36f6d7e3878c31898033ff8514d824d4f51d8cab187bf3eddc84e2a99e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466163756c74792532306f66253230496e666f726d6174696f6e253230546563686e6f6c6f67792d677265656e3f7374796c653d666f722d7468652d6261646765" alt="Faculty of IT" data-canonical-src="https://img.shields.io/badge/Faculty%20of%20Information%20Technology-green?style=for-the-badge" style="max-width: 100%;"></a>
+<a href="https://dainam.edu.vn" rel="nofollow"><img src="https://camo.githubusercontent.com/b503f479f429296dbff6eb7e1e583a962657044af1feb98e6dfc4a68a106a49e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4461694e616d253230556e69766572736974792d7265643f7374796c653d666f722d7468652d6261646765" alt="DaiNam University" data-canonical-src="https://img.shields.io/badge/DaiNam%20University-red?style=for-the-badge" style="max-width: 100%;"></a></p>
+</div>
 <div align="center">
   
 [![Python](https://img.shields.io/badge/Python-3.6+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -177,7 +185,7 @@ See the [LICENSE](LICENSE) file for details.
 - 🌐 Check network regularly
 - 💾 Backup data periodically
 - 🔑 Update security settings
-
+<p dir="auto">© 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.</p>
 ---
 <div align="center">
   
